@@ -1,0 +1,88 @@
+.gym{
+    background-image: url(https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: contain;
+}
+
+h1{
+    color: white;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size:40px;
+}
+
+#right{
+    text-align: right;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px white;
+}
+
+#center{
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px white;
+}
+
+#left{
+    text-align: left;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 5px white;
+}
+
+h2{
+    color: white;
+
+}
+
+.mp{
+    background: linear-gradient(to left,skyblue,green);
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight:bold;
+    margin: 0%;
+}
+
+.background{
+    background: linear-gradient(to left, lightblue,lightgreen);
+    row-gap: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.box1{
+    border: 2px solid rgb(52, 149, 188);
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: white;
+}
+
+.box2{
+    border: 2px solid rgb(52, 149, 188);
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.box3{
+    border: 2px solid rgb(52, 149, 188);
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: white;
+    margin-top: 40px;
+}
+
+.p1{
+    font-weight: bold;
+    color: rgb(38, 130, 160);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.p2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
